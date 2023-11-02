@@ -1,9 +1,9 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=237aff&height=220&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=237aff&height=150&section=header"/>
 </a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+marjan+mokhtari...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=237aff&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+marjan+mokhtari...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=35&color=237aff&background=FFFFFF00">
   </a>
 </h1>
 
