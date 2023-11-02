@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Marjan Mokhtari</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+marjan+mokhtari...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
+  </a>
+</h1>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500">
 <h3 align="center">A passionate frontend developer from Inran</h3>
 
