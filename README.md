@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=51b5fc&height=150&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e30bb8&height=150&section=header"/>
 </a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
