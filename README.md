@@ -13,11 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marjanmokhtari" alt="marjanmokhtari" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/marjanmokhtari](https://github.com/marjanmokhtari)
 
-- 💬 Ask me about **html5,css3**
-
-- 📫 How to reach me **mimmokhtarii@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/marjanmokhtari.web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin/in/marjanmokhtari) 
