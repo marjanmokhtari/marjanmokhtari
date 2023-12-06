@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate frontend developer from Inran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marjanmokhtari&label=Profile%20views&color=fff&style=flat" alt="marjanmokhtari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marjanmokhtari&label=Profile%20views&color=75bfff&style=flat" alt="marjanmokhtari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marjanmokhtari" alt="marjanmokhtari" /></a> </p>
 
